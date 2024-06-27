@@ -1,5 +1,6 @@
 # Jasmine-Tutorial-
 **AUTOMATED TESTING WITH JASMINE USING JAVASCRIPT**
+
 The objectives of the project related to automated testing with Jasmine using JavaScript are mentioned below:
 1.	Highlight the role of automated testing in software development.
 2.	Explain Jasmine for automating unit tests in JavaScript.
